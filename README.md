@@ -15,7 +15,7 @@
 5) visiting the categories
 
 
-### Exploring the bollywood Industry only
+### Exploring the bollywood Industry only--------------->>>>>>>>>>>>>>>
 1) Taking only those rows who have bollywood
 2) Checking for web series and movies both
 3) Also checking the seprately
@@ -24,7 +24,7 @@
 6) exploring the directors and their movies
 
 
-### Making a recommendation system
+### Making a recommendation system-------------------->>>>>>>>>>>>>>>>>>
 1) checking for missing values
 2) Filling with empty string (' ')
 3) Making a whole corpus with it by adding all the cells of one row together
